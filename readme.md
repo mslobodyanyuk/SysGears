@@ -32,4 +32,3 @@ Useful links:
 [Recalculation from Fahrenheit degrees](https://fin-calc.org.ua/ru/calculator/conversion/temperature/fahrenheit/)
 
 [Separate degrees and name scale](https://php.ru/forum/threads/razdelenie-stroki-bukvy-otdelno-cifry-otdelno.41853/)
-
